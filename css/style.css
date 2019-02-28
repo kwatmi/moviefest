@@ -1,0 +1,11 @@
+body, html {
+    height: 100%;
+    font-family: Quicksand;
+    color: #fff;
+}
+
+
+.header-logo img{
+	width: 70px;
+	height: 45px;
+}
