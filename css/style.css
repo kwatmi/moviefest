@@ -18,6 +18,7 @@ body, html {
 }
  .black{
 	background-color: #000000d4;
+	transition: 5s;
 }
 /*.carousel-item img{
 	width: 100%;
@@ -34,4 +35,10 @@ body, html {
   
   background:rgba(0,0,0,0.57);
 
+}
+
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;
 }
