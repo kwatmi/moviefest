@@ -115,3 +115,79 @@ span {
     border: solid 2px #fff;
     border-radius: 50%;
 }
+
+
+/*cards */
+
+.tittle-txt{
+
+      font-size: 18px;
+    margin-bottom: 40px;
+    letter-spacing: 1.7px;
+    text-transform: uppercase;
+    color: #ec7532;
+}
+.tittle-txt::after{
+  position: absolute;
+    right: auto;
+    bottom: -1px;
+    display: block;
+    width: 125px;
+    height: 4px;
+    content: '';
+    background-image: linear-gradient(to right,#fbbd61,#ec7532);
+}
+}
+}
+
+.testing{
+
+
+  filter: grayscale(100%);
+
+}
+
+.overlay-bg{
+
+  background:transparent;
+  border: 2px solid #ec7532;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);  
+  border-radius: 50%;
+}
+.overlay-bg:hover{
+
+  background:#ec7532;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);  
+  border-radius: 50%;
+  /*zoom: 1.1*/
+  /*color: #ec7532;*/
+  ;
+
+
+}
+
+.fa-play{
+
+ 
+  font-size: 40px;
+   color: #fff;
+
+}
+
+.foverlay-bg:hover~ .fa-play{
+
+ 
+  font-size: 40px;
+   
+    
+}
