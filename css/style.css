@@ -22,6 +22,9 @@ body, html {
 .navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
     color: rgba(241, 181, 20, 0.9);
 }
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: rgba(223, 130, 36, 0.92);
+}
  .black{
 	background-color: #000000d4;
 	transition: 5s;
