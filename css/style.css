@@ -137,15 +137,6 @@ span {
     content: '';
     background-image: linear-gradient(to right,#fbbd61,#ec7532);
 }
-}
-}
-
-.testing{
-
-
-  filter: grayscale(100%);
-
-}
 
 .overlay-bg{
 
@@ -190,4 +181,20 @@ span {
   font-size: 40px;
    
     
+}
+
+.rating{
+
+  font-size: 15px;
+  color: #777;
+}
+
+.rating p{
+    margin-top: 0.5rem;
+    margin-bottom: 0.3rem;
+
+}
+.review{
+  color: #ec7532;
+
 }
