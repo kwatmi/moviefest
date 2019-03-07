@@ -208,3 +208,12 @@ span {
 
   font-size: 16px;
 }
+
+footer  {
+    display: block;
+    background: #f7f7f7;
+}
+
+.footer-icon{
+  font-size:  2em;
+}
