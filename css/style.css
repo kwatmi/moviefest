@@ -224,3 +224,14 @@ footer  {
 
 
 /*register*/
+.bg{
+
+      background: linear-gradient(90deg, rgba(18, 18, 19, 0.69) 23%, rgba(0, 0, 0, 0.61) 69%), url(../img/hero-2.jpg) no-repeat;
+    position: cover;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    background-repeat: no-repeat;
+}
