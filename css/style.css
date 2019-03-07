@@ -34,6 +34,10 @@ body  {
 	background-color: #000000d4;
 	transition: 5s;
 }
+.black-add{
+  background-color: #000;
+  transition: 5s;
+}
 /*navbar toggle mobile bars*/
 .fa-bars{
 
@@ -234,4 +238,12 @@ footer  {
     /* background-repeat: no-repeat; */
     background-size: cover;
     background-repeat: no-repeat;
+}
+
+.contact-text{
+
+  color: #c4c4c4e3;
+}
+.contact-header{
+  color: #f7f7f7;
 }
