@@ -213,6 +213,11 @@ footer  {
     display: block;
     background: #f7f7f7;
 }
+.footer-text{
+
+  color: #777;
+  font-size:  1.0em;
+}
 
 .footer-icon{
   font-size:  2.5em;
